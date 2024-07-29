@@ -198,6 +198,9 @@ img {
 //shop
 #shop {
     .container {
+        h2 {
+            text-align: center;
+        }
         .shop-flex {
             margin-bottom: 1rem;
             .flexbox-1 {
@@ -236,6 +239,9 @@ img {
         .char-flex {
             .flexbox {
                 gap: 150px;
+                img {
+                    width: 50%;
+                }
                 .flexbox-content {
                     width: 30%;
                     .red {
@@ -244,6 +250,9 @@ img {
                     h4 {
                         font-size: 3rem;
                         font-weight: 300;
+                    }
+                    h3 {
+                        margin: 2rem 0;
                     }
                     p {
                         margin: 2rem 0;
@@ -261,7 +270,6 @@ img {
                         background: #000000cc;
                         color: #fff;
                         text-align: center;
-                        margin: 2rem 0;
                         border-radius: 4px;
                     }
                     .h53 {
@@ -280,6 +288,10 @@ img {
 
 //contact
 #contact {
+    h2 {
+        text-align: center;
+        text-transform: capitalize;
+    }
     width: 70%;
     margin: 0 auto;
     form {

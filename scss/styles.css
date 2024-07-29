@@ -189,6 +189,9 @@ img {
   margin-top: 2rem;
 }
 
+#shop .container h2 {
+  text-align: center;
+}
 #shop .container .shop-flex {
   margin-bottom: 1rem;
 }
@@ -224,6 +227,9 @@ img {
 #chair .container .char-flex .flexbox {
   gap: 150px;
 }
+#chair .container .char-flex .flexbox img {
+  width: 50%;
+}
 #chair .container .char-flex .flexbox .flexbox-content {
   width: 30%;
 }
@@ -233,6 +239,9 @@ img {
 #chair .container .char-flex .flexbox .flexbox-content h4 {
   font-size: 3rem;
   font-weight: 300;
+}
+#chair .container .char-flex .flexbox .flexbox-content h3 {
+  margin: 2rem 0;
 }
 #chair .container .char-flex .flexbox .flexbox-content p {
   margin: 2rem 0;
@@ -250,7 +259,6 @@ img {
   background: rgba(0, 0, 0, 0.8);
   color: #fff;
   text-align: center;
-  margin: 2rem 0;
   border-radius: 4px;
 }
 #chair .container .char-flex .flexbox .flexbox-content .h53 {
@@ -264,6 +272,10 @@ img {
 #contact {
   width: 70%;
   margin: 0 auto;
+}
+#contact h2 {
+  text-align: center;
+  text-transform: capitalize;
 }
 #contact form .flexbox {
   flex: 1;
