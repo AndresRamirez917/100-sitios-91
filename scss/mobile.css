@@ -1,1 +1,30 @@
-/*# sourceMappingURL=mobile.css.map */
+#mainheader .navbar .logo {
+  display: block;
+  margin: 0 auto;
+  padding: 3rem 0;
+  text-align: center;
+}
+#mainheader .navbar ul {
+  display: block;
+  text-align: center;
+  margin: 2rem;
+}
+#mainheader .navbar ul li {
+  text-align: center;
+  display: inline;
+}
+#mainheader .navbar .container {
+  display: block;
+}
+
+#showcase .showcase-content h1 {
+  font-size: 2rem;
+}
+
+#new-arrivals .container .new-arrivals-flex {
+  display: block;
+}
+#new-arrivals .container .new-arrivals-flex .flexbox-1 .btn {
+  display: block;
+  margin-top: 5rem;
+}/*# sourceMappingURL=mobile.css.map */

@@ -1,0 +1,49 @@
+//mainheader
+#mainheader {
+    .navbar {
+        .logo {
+            display: block;
+            margin: 0 auto;
+            padding: 3rem 0;
+            text-align: center;
+        }
+        ul {
+            display: block;
+            text-align: center;
+            margin: 2rem;
+            li {
+                text-align: center;
+                display: inline;
+            }
+        }
+        .container {
+            display: block;
+        }
+        
+    }
+}
+
+//showcase
+#showcase {
+    .showcase-content {
+        h1 {
+            font-size: 2rem;
+        }
+    }
+}
+
+//new-arrivals
+#new-arrivals {
+    .container {
+        .new-arrivals-flex {
+            display: block;
+            .flexbox-1 {
+                .btn {
+                    display: block;
+                    margin-top: 5rem;
+                }
+              
+            }
+        }
+    }
+}
