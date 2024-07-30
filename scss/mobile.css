@@ -24,7 +24,7 @@
 #new-arrivals .container .new-arrivals-flex {
   display: block;
 }
-#new-arrivals .container .new-arrivals-flex .flexbox-1 .btn {
-  display: block;
+#new-arrivals .container .new-arrivals-flex .flexbox-1 .flex-button, #new-arrivals .container .new-arrivals-flex .flexbox-2 .flex-button, #new-arrivals .container .new-arrivals-flex .flexbox-3 .flex-button, #new-arrivals .container .new-arrivals-flex .flexbox-4 .flex-button {
   margin-top: 5rem;
+  padding-top: 4rem;
 }/*# sourceMappingURL=mobile.css.map */

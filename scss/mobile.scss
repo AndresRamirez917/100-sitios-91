@@ -37,12 +37,11 @@
     .container {
         .new-arrivals-flex {
             display: block;
-            .flexbox-1 {
-                .btn {
-                    display: block;
+            .flexbox-1, .flexbox-2, .flexbox-3, .flexbox-4 {
+                .flex-button {
                     margin-top: 5rem;
+                    padding-top: 4rem;
                 }
-              
             }
         }
     }
