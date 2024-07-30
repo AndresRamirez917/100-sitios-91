@@ -46,3 +46,39 @@
         }
     }
 }
+
+//shop
+#shop {
+    .container {
+        .shop-flex {
+            display: block;
+            .flexbox-1, .flexbox-2, .flexbox-3, .flexbox-4 {
+                .flex-button {
+                    margin-top: 5rem;
+                    padding-top: 4rem;
+                }
+            }
+        }
+    }
+}
+
+//chair
+#chair {
+    .container {
+        .char-flex {
+            .flexbox {
+                display: block;
+                img {
+                    width: 100%;
+                }
+                .flexbox-content {
+                    width: 100%;
+                    display: block;
+                    p {
+                        text-align: justify;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -27,4 +27,26 @@
 #new-arrivals .container .new-arrivals-flex .flexbox-1 .flex-button, #new-arrivals .container .new-arrivals-flex .flexbox-2 .flex-button, #new-arrivals .container .new-arrivals-flex .flexbox-3 .flex-button, #new-arrivals .container .new-arrivals-flex .flexbox-4 .flex-button {
   margin-top: 5rem;
   padding-top: 4rem;
+}
+
+#shop .container .shop-flex {
+  display: block;
+}
+#shop .container .shop-flex .flexbox-1 .flex-button, #shop .container .shop-flex .flexbox-2 .flex-button, #shop .container .shop-flex .flexbox-3 .flex-button, #shop .container .shop-flex .flexbox-4 .flex-button {
+  margin-top: 5rem;
+  padding-top: 4rem;
+}
+
+#chair .container .char-flex .flexbox {
+  display: block;
+}
+#chair .container .char-flex .flexbox img {
+  width: 100%;
+}
+#chair .container .char-flex .flexbox .flexbox-content {
+  width: 100%;
+  display: block;
+}
+#chair .container .char-flex .flexbox .flexbox-content p {
+  text-align: justify;
 }/*# sourceMappingURL=mobile.css.map */
